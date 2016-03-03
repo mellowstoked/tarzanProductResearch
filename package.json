@@ -1,0 +1,12 @@
+{
+  "name": "ServeStaticContent",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "cheerio": "latest",
+    "express": "3.x",
+    "mws-product": "^1.0.1",
+    "request": "latest"
+  }
+}
