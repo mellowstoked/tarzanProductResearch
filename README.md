@@ -1,2 +1,2 @@
 # tarzanProductResearch
-This tool will help with getting a list of products and get there sales rank, price, and more.
+This tool will help with getting a list of products and get its sales rank, price, and more.
